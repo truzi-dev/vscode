@@ -1,9 +1,11 @@
 {
-  "name": "code-oss-dev",
+  "name": "truzi-studio",
+  "productName": "Truzi Studio",
   "version": "1.126.0",
+  "description": "Truzi Studio - Code Editor",
   "distro": "e6b302180cc8fecde16d482d0f2add78b067b6bf",
   "author": {
-    "name": "Microsoft Corporation"
+    "name": "Truzi Dev"
   },
   "license": "MIT",
   "main": "./out/main.js",
@@ -276,10 +278,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/microsoft/vscode.git"
+    "url": "https://github.com/truzi-dev/vscode.git"
   },
   "bugs": {
-    "url": "https://github.com/microsoft/vscode/issues"
+    "url": "https://github.com/truzi-dev/vscode/issues"
   },
   "optionalDependencies": {
     "windows-foreground-love": "0.6.1"
